@@ -13,7 +13,6 @@ This template combines:
 
 ## Preview
 
-Add screenshots here after you upload the repo:
 
 ![Image Alt](https://github.com/Ritika-port/Task-Management-Tracker/blob/main/task%20management%20dashboard%20ss.png?raw=true)
 ![Image Alt](https://github.com/Ritika-port/Task-Management-Tracker/blob/main/Task%20management%20table%20ss.png?raw=true)
